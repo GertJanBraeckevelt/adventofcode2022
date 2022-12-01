@@ -11,6 +11,7 @@ jupyter = "^1.0.0"
 jupyter-black = "^0.3.3"
 numpy = "^1.23.5"
 advent-of-code-data = "^1.2.3"
+nbstripout = "^0.6.1"
 
 
 [build-system]
